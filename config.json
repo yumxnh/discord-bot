@@ -1,0 +1,56 @@
+{
+    "token": "",
+    "guildID": "",
+    "clientID": "",
+    "devs": [""],
+
+    "role": {
+        "booster": "",
+        "rank": {
+            "rank_1": "",
+            "rank_2": "",
+            "rank_3": "",
+            "rank_4": "",
+            "rank_5": "",
+            "rank_6": "",
+            "rank_7": "",
+            "rank_8": "",
+            "rank_9": "",
+            "rank_10": ""
+        }
+    },
+    
+    "channel": {
+        "system": "",
+        "afkVoice": "",
+        "gpt": "",
+
+        "record": {
+            "joinedServer": "",
+            "leftServer": "",
+            "voice": "",
+            "text": "",
+            "moderation": "",
+            "userUpdate": ""
+
+        }
+    },
+
+    "colour": {
+        "red": "#FF0000",
+        "green": "#00FF00",
+        "white": "#FFFFFF",
+        "blue": "#0143EB",
+        "light_blue": "#00E1F9",
+        "black": "#000000",
+        "orange": "#FAA401",
+        "yellow": "#F9E000",
+        
+        "con_red": "#F9735D",
+        "con_green": "#60EA91",
+        "con_blue": "#82D7EB",
+        "con_light_blue": "#70E1FF",
+        "con_orange": "#EBC98F",
+        "con_purple": "#D3A4EB"
+    }
+}
